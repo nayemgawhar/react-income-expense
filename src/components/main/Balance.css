@@ -1,0 +1,14 @@
+.income {
+    display: inline-block;
+    margin-right: 50%;
+    color:blue;
+}
+
+.expense {
+    display: inline-block;
+    color: red;
+}
+.totalBalance  {
+    color: darkgreen;
+    text-decoration: underline;
+}

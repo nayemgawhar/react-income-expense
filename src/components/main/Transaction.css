@@ -1,0 +1,26 @@
+
+.in {
+    color: green;
+}
+
+.exp {
+    color: red;
+}
+
+.title, amount {
+    display: inline-block;
+    margin: 0;
+    padding: 1rem;
+    
+}
+
+.title {
+    text-align: left;
+    
+}
+
+.amount {
+    text-align: right;
+    float: right;
+    padding-right: 10em;
+}
